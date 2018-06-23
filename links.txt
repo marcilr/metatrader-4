@@ -8,13 +8,34 @@ MetaTrader 4 related links
 
 Links
 =====
-MetaTrader 4
+1. Beginner's Guide To MetaTrader 4: Introduction
+Jean Folger
+https://www.investopedia.com/university/meta-trader-guide-intro/
+
+2. Beginner's Guide To MetaTrader 4: Installation
+Jean Folger
+https://www.investopedia.com/university/meta-trader-guide-intro1.asp
+...
+7. Beginner's Guide To MetaTrader 4: Conclusion
+   https://www.investopedia.com/university/meta-trader-guide-intro6.asp
+
+
+MetaTrader 4                                <===
 - the most popular Forex trading platform
 https://www.metatrader4.com/en
 
 MetaTrader 4
 From Wikipedia, the free encyclopedia
 https://en.wikipedia.org/wiki/MetaTrader_4
+
+METATRADER 4 ON LINUX
+23 November 2012, 14:12
+Has instructions for wine
+https://www.mql5.com/en/articles/1358?utm_source=www.metatrader4.com&utm_campaign=download.mt4.linux
+
+MetaTrader 4 Trading Platform
+A popular Forex trading application
+https://www.metaquotes.net/en/metatrader4
 
 Trading signals
 Choose a provider to copy his trades
