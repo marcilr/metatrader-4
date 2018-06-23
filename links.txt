@@ -12,6 +12,10 @@ MetaTrader 4
 - the most popular Forex trading platform
 https://www.metatrader4.com/en
 
+MetaTrader 4
+From Wikipedia, the free encyclopedia
+https://en.wikipedia.org/wiki/MetaTrader_4
+
 Trading signals
 Choose a provider to copy his trades
 https://www.metatrader4.com/en/signals/overview
